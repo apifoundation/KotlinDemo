@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NetworkCalls</string>
+
+    <string name="welcome">Welcome!</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="title_universities">Universities</string>
+
+    <string name="search_keyword">Keyword</string>
+    <string name="keyword_hint">keyword to search by</string>
+    <string name="country">Country</string>
+    <string name="country_hint"></string>
+
+    <string name="search_button">Search</string>
+
+    <string name="university_name_label">Name</string>
+    <string name="university_website_label">Website</string>
+
+</resources>
